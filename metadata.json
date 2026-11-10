@@ -1,0 +1,6 @@
+{
+  "name": "e-Border Pass - Hệ Thống Giấy Phép Thông Hành Biên Giới",
+  "description": "Giao diện chuẩn hóa e-Border Pass: Quản lý, tra cứu và phê duyệt giấy phép thông hành biên giới điện tử.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
